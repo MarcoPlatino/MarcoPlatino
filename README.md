@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on some 3D modeling projects, and some light android development.
+🌱 I’m currently learning kotlin.
+
 
 [![Top Langs](https://github-readme-stats-chi-eight-63.vercel.app/api/top-langs/?username=MarcoPlatino&layout=compact&theme=outrun)](https://github.com/MarcoPlatino/github-readme-stats)
 
