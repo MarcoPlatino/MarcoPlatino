@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Top Langs](https://github-readme-stats-chi-eight-63.vercel.app/api/top-langs/?username=MarcoPlatino&layout=compact&theme=outrun)](https://github.com/MarcoPlatino/github-readme-stats)
+
 [![Marco's GitHub stats](https://github-readme-stats-chi-eight-63.vercel.app/api?username=MarcoPlatino&show_icons=true&theme=outrun)](https://github.com/MarcoPlatino/github-readme-stats)
 <!--
 **MarcoPlatino/MarcoPlatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
