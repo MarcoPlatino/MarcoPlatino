@@ -1,6 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on some 3D modeling projects, and some light android development.
-
+🔭 Working on developing EulerKit -- a library to help me when I am solving problems on [Project Euler](projecteuler.net)
 🌱 I’m currently learning kotlin.
 
 
